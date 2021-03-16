@@ -84,7 +84,7 @@
     "mcShopcart": {
       "checkoutLabelButton": "Add to Cart              "
     },
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
