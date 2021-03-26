@@ -76,7 +76,7 @@
     "siteUrl": false,
     "sitemapSwitcherAuto": "on",
     "favicon": false,
-    "mbrsiteDomain": "ypxmqrc0vo",
+    "mbrsiteDomain": "laza0xscrh",
     "lazyType": "nothing",
     "cookiesAlert": false,
     "gdpr": false,
@@ -84,7 +84,8 @@
     "mcShopcart": {
       "checkoutLabelButton": "Add to Cart              "
     },
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-PYGELWLD19\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-PYGELWLD19');\n</script>"
   },
   "pages": {
     "index.html": {
